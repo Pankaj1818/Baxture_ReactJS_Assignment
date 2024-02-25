@@ -1,0 +1,30 @@
+.box {
+    margin-left: 40px ;
+    margin-Top: 30px ;
+  }
+
+.mainBox {
+    margin-bottom: 20px ;
+    float: left ;
+            
+  }
+
+  .cardContentBox {
+    display: flex;
+    justify-content: center;
+  }
+
+  .name {
+   font-weight: bold !important;
+   margin-top: 10px;
+  }
+
+  .info {
+    display: flex;
+    justify-content: 'left';
+    color:grey ;
+  }
+
+  .buttonBox {
+    margin-top: 15px;
+  }
